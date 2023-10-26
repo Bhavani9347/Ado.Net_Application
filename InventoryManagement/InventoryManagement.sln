@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement", "InventoryManagement.csproj", "{DF98A381-B02E-49FD-87F3-CD301B9C53A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gradebook", "..\gradebook\gradebook.csproj", "{CEA012F5-627A-43F5-8BBB-5F8A343FB634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF98A381-B02E-49FD-87F3-CD301B9C53A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF98A381-B02E-49FD-87F3-CD301B9C53A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF98A381-B02E-49FD-87F3-CD301B9C53A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF98A381-B02E-49FD-87F3-CD301B9C53A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA012F5-627A-43F5-8BBB-5F8A343FB634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA012F5-627A-43F5-8BBB-5F8A343FB634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA012F5-627A-43F5-8BBB-5F8A343FB634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA012F5-627A-43F5-8BBB-5F8A343FB634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD48B81-169D-4113-A94C-5E5B744F94AD}
+	EndGlobalSection
+EndGlobal
